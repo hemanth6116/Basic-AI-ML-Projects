@@ -1,8 +1,9 @@
-1. 🤖 Simple Chatbot Assistant
-Description:
+1. 🤖**Simple Chatbot Assistant**
+   
+**Description:**
 A rule-based chatbot capable of recognizing greetings, questions, topic-based queries, and telling jokes. It includes keyword matching and some dynamic responses like current time and date.
 
-Features:
+**Features:**
 
 Keyword & rule-based responses
 Time & date functionality
